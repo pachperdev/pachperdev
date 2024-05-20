@@ -1,6 +1,6 @@
 # ¡Hola! Soy Mauricio Pacheco 👋
 
-![Banner](url_del_banner_aqui)
+![Banner](./banner-pachperdev.png)
 
 ## Sobre Mí
 
